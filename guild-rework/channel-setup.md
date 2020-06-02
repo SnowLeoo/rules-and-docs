@@ -1,6 +1,7 @@
 # Channel Setup 
-> Contributors: zekro#9131, Ron31#2338  
-> Last update:  2019/09/22
+> Contributors: zekro#9131, Ron31#2338 Snowland#3404
+> 
+> Last update:  2020/06/02
 
 ---
 
@@ -8,13 +9,13 @@
   *Willkommens-Message + Regeln*
 - Staff
   - admin  
-    *Only visible for Admins*
+    *Nur sichtbar für Admins.*
   - mods  
-    *Only visible for Moderators and Admins*
+    *Nur sichtbar für Admins und Moderatoren.*
   - staff-cmd  
-    *Only visible for Moderators and Admins*
+    *Nur sichtbar für Admins und Moderatoren.*
   - join-log  
-    *Only visible for Moderators and Admins.*  
+    *Nur sichtbar für Admins und Moderatoren.*  
     *Hier werden alle gejointen Member aufgelistet (direkt über das [Discord Feature](https://i.zekro.de/Discord_2019-01-10_16-23-08.png))*
 - Blackboard
   - dev-blackboard
@@ -27,16 +28,17 @@
   *In diesen Channeln darf generell offen gechattet werden ohne besonderen Fokus auf Support und Qualität (natürlich im Rahmen der allgemeinen Regeln).*
   - general
   - devtalk
-  - bot-development
   - techtalk
+  - community-pfush
   - trashtalk
-  - annegret-kramp-karrenbauer (memes)
-  - setup-porn
+  - armin-laschet (memes)
+  - desktops
   - commands
   - media
   - nsfw
+    - Ein NSFW Channel. 18+ Inhalt erlaubt solange es den [Discord TOS](https://discord.com/terms) befolgt.
 - Support  
-  *In diesen Channeln steht Support und Qualität im Vordergrund.*
+  *Diese Channel sind für alle möglichen Fragen zu Support relevanten Themen gedacht*
   - code-reviews
   - jvm-langs
   - python
@@ -44,8 +46,8 @@
   - js
   - go
   - webdev
-  - dotnet
   - rust
+  - dotnet
   - etc
 - Voice Channels
   - voice *Chat Channel*

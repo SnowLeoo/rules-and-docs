@@ -1,4 +1,4 @@
-# "zekro's Dev Discord" - Rules and Docs
+# "zekro's Dev Schuppen" - Rules and Docs
 
 ## Index
 

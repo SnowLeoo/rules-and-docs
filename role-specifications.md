@@ -1,6 +1,7 @@
 # Role Specifications
-> Contributors: zekro#9131, Xellar#9999  
-> Last update:  2019/01/07
+> Contributors: zekro#0001, Xellar#9999 Snowland#3404
+
+> Last update: 2020/06/02
 
 ---
 
@@ -10,7 +11,7 @@ This applies to every role:
 ## Admin
 
 - Admins have every permission and also bypass channel specific permission settings.
-- Admins must have MFA enabled to use their permissions.
+- Admins must have 2FA enabled to use their permissions.
 - Admins can access a seperated chat, only visible for Admins.
 - The main duties of the Admins are:
   - Punish members who violate the guilds rules (report, mute, ban, kick)  

@@ -1,12 +1,13 @@
 # General Rules
-> Contributors: zekro#0001, argex#0042, error2507#1599, Vale#5252, Ron31#2338, Xellar#9999, G3bE#6007  
-> Last update:  2019/07/18
+> Contributors: zekro#0001, argex#0042, error2507#1599, Vale#5252, Ron31#2338, Xellar#9999, G3bE#6007, Snowland#3404
+ 
+> Last update:  2020/06/02
 
 ---
 
 1. Be nice, patient and respectful to everyone, especially if you encounter people who may be less skilled than you in this specific topic.
 
-2. If there come across people who are unpatient and violate the rules, hint them nicely to their misconduct and report it to a moderator or staff member with a proof in form of a message ID, message link or, in best case, a screen shot.
+2. If there come people across who are unpatient and violate the rules, hint them nicely to their misconduct and report it to a moderator or staff member with a proof in form of a message ID, message link or, in best case, a screenshot.
 
 3. **Any type** of self-promotion for any type of product or service isn't allowed and will be hardly punished. If you want to advertise a product or service, you need to get an agreement of a **staff member**.
 
@@ -20,13 +21,13 @@
 
 8. Any type of spam, the excessive use of caps or anything similar is not allowed and will be removed.
 
-9. Of course, you should observe the [Discord TOS](https://discordapp.com/terms) and the [Discord Community Guidelines](https://discordapp.com/guidelines).
+9. Of course, you should observe the [Discord TOS](https://discord.com/terms) and the [Discord Community Guidelines](https://discord.com/guidelines).
 
 10. Do not argue with, impersonate, or spam staff in the server or off the server (dms, mutual servers, etc). You have to follow the instructions of moderators and staff members.
 
 11. Invite Links, for self promotion or not, are only allowed over DM when asked. Otherwise ask a Staff Member for the permission to post it. 
 
-12. The channels located in the **blackboard** category mustn't be used for shitposting, only messages that are meant serious are allowed there, thus a message not complying with this rule, will be deleted by the **staff team** and the user breaking this rule will be warned.
+12. The channels located in the **blackboard** category isn't used for shitposting. Only messages that are meant to be serious, are allowed there. If a message doesn't fit with the rules, it will be deleted by a **staff team** and the user breaking this rule will be warned.
 
 ---
 
