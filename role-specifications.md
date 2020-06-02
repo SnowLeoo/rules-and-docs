@@ -1,5 +1,5 @@
 # Role Specifications
-> Contributors: zekro#0001, Xellar#9999 Snowland#3404
+> Contributors: zekro#0001, Xellar#9999, Snowland#3404
 
 > Last update: 2020/06/02
 

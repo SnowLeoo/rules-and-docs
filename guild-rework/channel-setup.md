@@ -1,5 +1,5 @@
 # Channel Setup 
-> Contributors: zekro#9131, Ron31#2338 Snowland#3404
+> Contributors: zekro#9131, Ron31#2338, Snowland#3404
 > 
 > Last update:  2020/06/02
 
@@ -31,7 +31,7 @@
   - techtalk
   - community-pfush
   - trashtalk
-  - armin-laschet (memes)
+  - *memes-channel*
   - desktops
   - commands
   - media
@@ -52,8 +52,7 @@
 - Voice Channels
   - voice *Chat Channel*
   - Staff
-  - Support
-  - Talk 1
+  - Talk
   - Private *Nur 2 Personen*
 - Arschif *Archiv von abgeschafften Channels*
   - minecraft-server

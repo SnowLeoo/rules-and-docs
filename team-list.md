@@ -1,5 +1,5 @@
 # Team List
-> Contributors: Ron31#2338 Snowland#3404
+> Contributors: Ron31#2338, Snowland#3404
 > Last update:  2020/06/02
 
 ---
@@ -22,3 +22,4 @@
 ## Supporter
 
 - error2507#2022
+  - supp-js 
